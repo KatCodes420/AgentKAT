@@ -1,0 +1,10 @@
+[project]
+name = "AgentKAT"
+version = "0.1.0"
+description = "AI Agent, needs tuna sometimes."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "openai==2.44.0",
+    "python-dotenv==1.1.0",
+]
